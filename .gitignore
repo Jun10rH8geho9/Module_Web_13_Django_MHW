@@ -1,0 +1,4 @@
+**/__pycache__
+.idea
+
+/hw_django_project/.env
